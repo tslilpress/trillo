@@ -73,3 +73,6 @@ body {
 .hotel-view {
   background-color: #fff;
   flex: 1; }
+
+.logo {
+  height: 3.25rem; }
